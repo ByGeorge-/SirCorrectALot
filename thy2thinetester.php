@@ -3,7 +3,7 @@
 *	Just a brief test of using regex to see if thy thine is right.
 */
 
-$comment = "Hello world, thy ease is mine."; // will be the user submitted one from the json. 
+$comment = "Hello world, thy ease is mine. Thy hearing is fine. "; // will be the user submitted one from the json. 
 
 $thyPattern = "/[T]hy [aeiouh]/i"; // finds if offending word exists.
 
@@ -17,8 +17,7 @@ $explodingThy = $matches[0]; // Saves found thy as var.
 
 if($offenseExists){
 	$explodeString = explode($explodingThy,$comment); // Splits string at the found Thy.
-	$findOffendingWord = $explodeString[1]; // Saves 2nd part of split beginning with offending word. 
-	$findOffendingWord = explode(" ",$findOffendingWord); // explodes further to get offending word.
+	$findOffendingWord = explode(" ",$explodeString[1]); // explodes further to get offending word.
 	$offendingWord = $findOffendingWord[1]; // Saves offending word in var. 
 	$letter = substr($offendingWord,0,1); // Gets first letter of offending word for use in comment. 
 	
