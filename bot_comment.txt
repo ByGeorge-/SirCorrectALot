@@ -1,0 +1,18 @@
+"Quoted Text"
+
+Hi there! I couldn't help but notice that you've made the mistake of placing
+ye olde Englishe word 'thy' before a word beginning with a vowel (A E I O U, 
+and including H) - hence it should rather be 'thine'. 
+
+In your case, you have written '<i>thy userword</i>' when it should be '<i>thine userword</i>'.
+You can see that the word '<i>userword</i>' begins with the vowel '<i>uservowel</i>', and 
+so, follows the aforementioned rule. 
+
+Hopefully that was helpful for you! Interested in learning more? Why not check
+out (http://www.reddit.com/r/linguistics)[r/Linguistics]! Want to read more
+on thy/thine? Go (http://en.wikipedia.org/wiki/Middle_English#Pronouns)[here]! (Middle english made the distinction between
+singular and plural 'you' - whereas today we use only the one form. Also
+that th sound is actually a single letter - it's called the (http://en.wikipedia.org/wiki/Thorn_%28letter%29)[thorn]. It's still
+in use in Icelandic - which is a language that has in fact many old features
+still retained.)
+
