@@ -1,0 +1,9 @@
+Updates to SirCorrectsALot
+=========================
+
+Allow for more than 1 thy offense. 
+
+Use Reddit Markup in comment. 
+
+Respond with more linguistics facts if comment is replied to and contains
+certain key words that would indicate more knowledge required. 
