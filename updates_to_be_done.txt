@@ -7,3 +7,5 @@ Use Reddit Markup in comment.
 
 Respond with more linguistics facts if comment is replied to and contains
 certain key words that would indicate more knowledge required. 
+
+Tackle misuse of "thee" or rather lack of. For example "bless thy" when it should be bless thee. A naive way to implement this would be to see if verb comes before, but of course you could get "none above thee" which is perfectly valid but has no verb. a better way would be to check for an object. thee is a pronoun, thy is a demonstrative so it is. 
