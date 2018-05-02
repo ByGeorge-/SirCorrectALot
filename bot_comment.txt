@@ -4,8 +4,8 @@ Hi there! I couldn't help but notice that you've made the mistake of placing
 ye olde Englishe word 'thy' before a word beginning with a vowel (A E I O U, 
 and including H) - hence it should rather be 'thine'. 
 
-In your case, you have written '<i>thy userword</i>' when it should be '<i>thine userword</i>'.
-You can see that the word '<i>userword</i>' begins with the vowel '<i>uservowel</i>', and 
+In your case, you have written '*thy {0}*' when it should be '*thine {0}*'.
+You can see that the word '*{0}*' begins with the vowel '*{1}*', and 
 so, follows the aforementioned rule. 
 
 Hopefully that was helpful for you! Interested in learning more? Why not check
